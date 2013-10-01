@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 master server
 master server
-=======
+
 freeman server
->>>>>>> freeman
+
